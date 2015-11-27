@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tate Carson ]]></title>
         <description><![CDATA[Tate Carson ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tate-carson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 23:48:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 Nov 2015 23:57:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tate-carson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c41912ab-a58e-4cd0-b9f9-4b6687098701.jpg">]]></description>
+            <link>https://thegrid.ai/tate-carson/43dac72c-4722-4968-b335-5ed2dd22a928/index.html</link>
+            <guid isPermaLink="false">43dac72c-4722-4968-b335-5ed2dd22a928</guid>
+            <pubDate>Fri, 27 Nov 2015 23:56:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test test test </p>]]></description>
-            <link>undefined4daad4cc-74d0-43da-8bb0-a1292bb599d0/index.html</link>
+            <link>https://thegrid.ai/tate-carson/4daad4cc-74d0-43da-8bb0-a1292bb599d0/index.html</link>
             <guid isPermaLink="false">4daad4cc-74d0-43da-8bb0-a1292bb599d0</guid>
             <pubDate>Fri, 27 Nov 2015 23:48:26 GMT</pubDate>
         </item>
