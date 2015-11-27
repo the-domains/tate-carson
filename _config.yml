@@ -1,0 +1,28 @@
+name: 'Tate Carson '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.27506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.125
+  lightness: 0.0625
+  saturation: 0.4375
+  rhythmicContrast: 0
+purpose: []
